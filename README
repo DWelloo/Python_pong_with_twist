@@ -1,0 +1,5 @@
+Controls:
+move_up: arrow_up / s
+move_down: arrow_down / x
+pause: b
+use "super shot": i / 
