@@ -6,8 +6,11 @@ pause: b
 use "super shot": i / q (cost: 1 bar)
 shrink enemy: o / w (cost: 2 bars)
 reverse ball's x_direction: p / e (cost: 3 bars)
+
 Player vs bot controls: same as player 1's
+
 Skin menu:
 choose skin for player 1: mouse_left_button
 choose skin for player 2: mouse_right_button
+
 Warning: currently bot is designed to be unbeatable, so good luck :)
